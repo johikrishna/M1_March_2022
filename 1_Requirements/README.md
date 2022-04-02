@@ -1,15 +1,63 @@
-## Intro 
+# Requirements 
 
-Simple Movie Ticket Booking System is based on the concept of booking movie tickets. There’s no login system available for this system, the user can freely use its feature. This mini project contains limited features, but the essential one. 
+ 
 
-Talking about the features of this Simple system, the user can book movie tickets. For this, the user has to select a movie name, enter customer details such as name. Then the user has to enter seat number. After this, the booking is done. The user can also change the ticket price and view reservations by entering the admin password. The last feature of this project is about canceling the tickets which can be done by entering the booking id. 
+## Introduction 
 
-The system does not create an external file to store the user’s data permanently. This system is in C Programming Language and different variables, strings have been used for the development of it. 
+A Movie Reservation System Is Based on the Concept of Booking Movie Tickets. There’s No Login System Available for This System, The User Can Freely Use Its Feature. This Mini Project Contains Limited Features, But the Essential One. 
 
-## Work-Process 
+## Research 
 
- The Work Process of this project is we are getting the user to select the movie and booking it through the user id and then the ticket to be selected for the movie for the specific movie and then selecting those tickets and those tickets will be booked.   
+Cinema brings to Us Different Cultures of the World. It Introduces Us to Various Art Forms and Helps Us in Gaining Knowledge About How Different People Lead Their Lives. Movie Reservation System Are Used Widely in Situations That Require Quick Access to Booking the Movie in A Theatre Via Booking System. 
 
-## Result  
+The Main Goal of Our Project Is to Provide Various Types of Customer Facilities, And Provide Good Customer Service It Should fulfil Almost All the Process Requirements of Booking a Ticket 
 
-At-last ticket booking process was enabled using c program.This easy way to implement.And very easy to use. 
+## Features 
+
+Movie Reservation System Include Booking Tickets of The Current Films and Upcoming Films and Buying the Snacks (Puff, Coke, Water Bottle). Then Termination the Program and the Features. 
+
+## Benefits 
+
+The Movie Ticket Booking System Provides Wide Range Of Benefit Which Are Allow Customers To Place Their Booking At A Time That Is Most Convenient For Them. The User Can Select The Seats As Per Choice. Using An Online Booking System, They Can Make Their Booking At Any Time Of Day Or Night, Without Having To Worry If It's Within Business Hours Or Not. 
+
+### Defining Our System 
+
+### Explanation 
+
+It Has A Various Type Of Operation. That The User Can book The Ticket in Quick Manner and It Has A Few Inbuilt Features Like View the Movies Available. * Purchase A Ticket. * View The Available Seats. * Cancel A Ticket. * Terminating The system 
+
+## Swot Analysis 
+
+        
+
+ 
+
+### 4W&#39;s and 1&#39;H
+
+## Who 
+
+ * Theatre * People 
+
+## What 
+
+To Build A System To Book Ticket, Cancel Ticket, Buying Snacks. 
+
+## When 
+
+When User Wants to Carry Out the Tasks Quickly Which Also Reduces Work to Buy in a Specific place and Also Saves Time 
+
+## Where 
+
+This Issue Is In All Parts Of The World In Theatre Where There Is A Lot Of Movie Booking Happening. 
+
+## How 
+
+ By Creating A System Which Will Provide All The Functionalities Required, The Booking Of, Cancelling Of The Tickets And Other Actions Which Will Be Taking More Time  
+
+ 
+
+          
+
+ 
+
+            
