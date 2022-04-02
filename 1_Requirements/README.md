@@ -27,9 +27,7 @@ The Movie Ticket Booking System Provides Wide Range Of Benefit Which Are Allow C
 It Has A Various Type Of Operation. That The User Can book The Ticket in Quick Manner and It Has A Few Inbuilt Features Like View the Movies Available. * Purchase A Ticket. * View The Available Seats. * Cancel A Ticket. * Terminating The system 
 
 ## Swot Analysis 
-
-        
-
+ ![SWOT Analysis](https://github.com/johikrishna/M1_Movie-Reservation-System_2022/blob/main/1_Requirements/swot-analysis.jpg)
  
 
 ### 4W&#39;s and 1&#39;H
